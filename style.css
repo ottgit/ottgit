@@ -1,3 +1,6 @@
 body{
+  background-image: url("mark.png");
+  background-size: contain;
   background-color: PaleGreen;
+  color: white;
 }
